@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLiteBooster", "GameLiteBooster.csproj", "{58406692-F547-435B-BD40-AA83C60A6D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58406692-F547-435B-BD40-AA83C60A6D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58406692-F547-435B-BD40-AA83C60A6D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58406692-F547-435B-BD40-AA83C60A6D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58406692-F547-435B-BD40-AA83C60A6D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7B9BF8-3F7F-494F-BC8A-365FAEBDA5DE}
+	EndGlobalSection
+EndGlobal
